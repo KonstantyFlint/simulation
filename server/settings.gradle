@@ -1,0 +1,3 @@
+rootProject.name = 'simulation'
+include 'server'
+include 'client'
